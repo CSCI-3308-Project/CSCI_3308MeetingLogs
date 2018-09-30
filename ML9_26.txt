@@ -1,0 +1,18 @@
+Team Meeting 9/26
+12pm - 2pm
+
+Finalized Project Idea: Connecting CS Students for collaborative studying
+
+Ideas for tools used in development:
+
+Front End: HTML / CSS / JavaScript
+Back End: JavaScript / Node.js
+Data: SQL
+
+Brainstorming about website:
+- How is this different than Moodle / Piazza:
+	- Encourages face to face interaction
+	- Students seeking students
+	- A student can see if someone is working on the same thing as them somewhere on campus
+
+Finalized Team Name: Mid-Summer Night's Team / MSNT
