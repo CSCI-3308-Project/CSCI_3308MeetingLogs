@@ -1,1 +1,1 @@
-This is hte meeting log repo for the project
+This is the meeting log repo for our project. 
