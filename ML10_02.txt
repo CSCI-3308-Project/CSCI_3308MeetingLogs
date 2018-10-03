@@ -1,0 +1,20 @@
+Team Meeting 10/2
+12pm - 2pm
+
+Spoke more on the specifics of our project such as acutal implementation of architecture and website features. 
+
+We spoke upon the basic landing scheme on our website: 
+This is as follows: 
+When one first lands on our website, 
+it will ask the user if they already have an account with us. 
+Then, the user will be presented with a sign-up page if they are not already a member. 
+The sign-up page will prompt the user for their @colorado.edu email, for a username, and optional information such as first name, 
+last name, graduation year, and their common study location. 
+After signing up, 
+users will have the  ability to customize their profiles to their liking. 
+Users will be able to decide then if they wish to meet up with someone and do partner work or 
+meet up with a group and do group work for their respective classes. 
+
+We also spoke upon risk mitigation and how our group was going to do this. We decided 
+that we would have to study the respective languages required to finish our project 
+outside of class as well. This will hone our skills and allow us to finish on time. 
