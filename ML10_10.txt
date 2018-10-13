@@ -8,3 +8,6 @@ Thus, we made a timeline where we knew what each individual had to complete.
 
 Additionally, we also went over what we would do before we met next, and 
 talked about what we did before we met for this day. 
+This included practicing HTML, node.JS and react over the weekend. 
+We found out what exactly each person was lacking in, and we 
+are working on this.
