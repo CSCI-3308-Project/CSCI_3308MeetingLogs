@@ -1,0 +1,16 @@
+Team Meeting 10/17
+12 - 2pm
+
+We went over what objectives each person in our team would do. 
+Then, we worked on Milestone 2 and did a sprint meeting. 
+
+Afterwards, we saw the progress that some of our group memebers had made. 
+This involved the group seeing react code that allowed us to create a login page. 
+We have realized that we are making great progress in learning react and thus 
+see that it was a wise choice in choosing to use it for our project. 
+
+Finally, we set a time for completion for Milestone 2 and divided up the 
+work that each person would do to complete it in a timely manner. This 
+allowed us to realize that our team is well organized and that everyone 
+is doing their fair share of work to complete thee assignments that 
+we have for our project. 
