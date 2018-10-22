@@ -1,11 +1,12 @@
 Team Meeting 10/17
 12 - 2pm
 
-We went over what objectives each person in our team would do. 
+We went over what objectives each person in our team would do to further our understanding of react
+and thus add to the login page that we are working on. 
 Then, we worked on Milestone 2 and did a sprint meeting. 
 
 Afterwards, we saw the progress that some of our group memebers had made. 
-This involved the group seeing react code that allowed us to create a login page. 
+This involved the group seeing and anazlying react code that allowed us to create a login page. 
 We have realized that we are making great progress in learning react and thus 
 see that it was a wise choice in choosing to use it for our project. 
 
