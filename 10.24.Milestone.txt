@@ -1,0 +1,11 @@
+Team Meeting 10/24
+12 - 2pm
+
+
+We went over logistics about the contribution to the sprint we are working on. We discussed everyone's 
+role by the next meeting and went over react.We went over what each person had done since the last meeting. 
+
+Afterwards, we saw the progress that some of our group memebers had made. 
+This involved the group seeing and anazlying react code that allowed us to create a login page. 
+We discussed integrating each person's components into the grand scheme. 
+We set more concrete deadlines for certain components. 
