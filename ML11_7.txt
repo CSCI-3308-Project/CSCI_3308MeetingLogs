@@ -1,0 +1,6 @@
+Meeting 11/7
+
+In this meeting we decided on tasks to divide between us for next week. Our goals in particular are to build the site landing page as well as the home page that lived behing user log in. 
+
+Additionally, we discussed messaging on the site in regards to implementation of the 'meet up' feature. Minimum goal is to give users the email of the person that they're searching for that they want to contact. Beyond this, a stretch goal is to install in site messaging. 
+
