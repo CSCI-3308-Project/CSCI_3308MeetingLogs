@@ -2,7 +2,7 @@ Meeting 10/31
 
 We discussed the repository branch system and how we should avoid redoing each others's work moving forward. 
 
-Furthermore we discussed the way that we are going to launch the website for the final project presentation, local
+Furthermore, we discussed the way that we are going to launch the website for the final project presentation, local
 on a single system vs cloud hosted. We decidded for the purposes of this project, particularly with our database interaction,
 that a local launch would be more in scope. This will allow us to focus more on otehr aspects of the site. 
 
