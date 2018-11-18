@@ -1,0 +1,10 @@
+Meeting for 11/14 
+
+With the deadline for Milestone 4 approaching, we discussed further implementation of our database. We decided
+that we should add a second table to handle the search information for users.
+
+In general, this table contains volatile data tied to the current users cookie because their search data
+doesn't need to be saved on subsequent logins to StuddyBuddies. This table contains names and class (as a minimum).
+
+UI features that support this database will be a 'class filtering' system where users narrow their views of 
+potential study buddies by CU CS class. 
