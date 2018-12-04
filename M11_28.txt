@@ -1,0 +1,11 @@
+Meeting Log for 11//28
+
+We started this meeting with a scrum where we discussed a lot of changes
+that happened to the site as a result of people working during break. In
+general there were several updates to the home page to simplify/streamline
+the matching process. Database design from the pervious milestone was largely
+implemented. 
+
+Additionally we discussed more potential aspects of the website that we would like
+to implement before we're done. These included: static resource page with CU links, 
+new error redirect, and the stretch goal on in-site messaging. 
