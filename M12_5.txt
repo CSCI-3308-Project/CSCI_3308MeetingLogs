@@ -1,0 +1,9 @@
+Meeting Log 12/5/17
+
+The focus for this meeting was on last minute features that should 
+be added to the project build before it is ready to launch. This included
+a resources page, database updates, and a last ditch effort to get in site messaging 
+into place. 
+
+Additionally a large part of the meeting was setting up the template for the powerpoint 
+presentation to be shown to th class for Milestone 6. 
