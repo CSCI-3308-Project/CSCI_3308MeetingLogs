@@ -1,0 +1,8 @@
+Meeting Log 12/10
+
+We went over the presentation and assigned roles for the impending presentation 
+this Wednesday. In general we decided that the presentation slides would be divided
+equally and that Justin + Pari would lead the demo.
+
+We also decided to try to deploy the application in Heroku such that people 
+in lecture during the presentation could log into the website and drive it around. 
